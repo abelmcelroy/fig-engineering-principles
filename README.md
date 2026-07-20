@@ -98,7 +98,7 @@ npx fig-engineering-principles
 
 Same — the `/fig` and `/fig-workflow` skills and the `/fig-agent` subagent.
 
-## General Claude Code Advise
+## General Claude Code Advice
 
 I use Claude Code (not codex, cursor, copilot, ...). Here's some stuff I'd highly recommend you at least learn more about if you do too:
 
