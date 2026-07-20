@@ -1,6 +1,6 @@
 {
   "name": "fig-engineering-principles",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Engineering principles for high quality code without babysitting.",
   "bin": {
     "fig-engineering-principles": "bin/cli.mjs"
