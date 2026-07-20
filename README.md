@@ -1,6 +1,20 @@
-# Fig: [the fruit of knowledge](https://en.wikipedia.org/wiki/Fig#:~:text=According%20to%20the%20opinion%20of%20Rabbi,Christ%20withers%20in%20the%20Gospels)
+<h1 align="center">Fig: <a href="https://en.wikipedia.org/wiki/Fig#:~:text=According%20to%20the%20opinion%20of%20Rabbi,Christ%20withers%20in%20the%20Gospels">the fruit of knowledge</a></h1>
 
-These are engineering principles for high quality code without babysitting.
+<p align="center"><em>These are engineering principles for high quality code without babysitting.</em></p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/fig-engineering-principles"><img src="https://img.shields.io/npm/v/fig-engineering-principles" alt="npm version"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-PolyForm%20Noncommercial%201.0.0-blue" alt="license"></a>
+</p>
+
+<p align="center">
+  <a href="#the-skills">The skills</a> ·
+  <a href="#orchestration">Orchestration</a> ·
+  <a href="#install">Install</a> ·
+  <a href="#license">License</a>
+</p>
+
+---
 
 ## The Problem
 
@@ -14,7 +28,7 @@ By emphasizing principles of software engineering that great engineers already u
 
 I devised these skills from obsessing over how to get more out of AI coding agents nearly round the clock for six months. My view is and was that AI coding tools aren't worth it, no matter how amazing the tech is, if I'm trapped at my desk the same number of hours a day. And the singular determining factor trapping me at my desk is whether or not I expect agents to produce code that is at least good _enough_. My bar is high (very) so it's been a real struggle.
 
-### The vast majority of my waking hours in 2026 have been tirelessly dedicated to understanding coding agent's failures, and how modify their behavior effectively. You can read about my experience of doing that work and the insights behind these rules in the the [explanations.md](explanations.md) file. I strongly encourage everyone to do so.
+> **The vast majority of my waking hours in 2026 have been tirelessly dedicated to understanding coding agent's failures, and how modify their behavior effectively. You can read about my experience of doing that work and the insights behind these rules in the the [explanations.md](explanations.md) file. I strongly encourage everyone to do so.**
 
 ## Metrics
 
