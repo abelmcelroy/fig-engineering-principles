@@ -1,0 +1,4 @@
+{
+  "name": "fig",
+  "hooks": "./hooks/hooks.json"
+}

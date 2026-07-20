@@ -1,0 +1,19 @@
+{
+  "name": "fig-engineering-principles",
+  "version": "0.1.0",
+  "description": "Engineering principles for high quality code without babysitting.",
+  "bin": {
+    "fig-engineering-principles": "bin/cli.mjs"
+  },
+  "files": [
+    "principles.md",
+    "skills",
+    "agents",
+    "bin"
+  ],
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abelmcelroy/fig-engineering-principles.git"
+  }
+}

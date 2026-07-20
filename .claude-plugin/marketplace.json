@@ -1,0 +1,13 @@
+{
+  "name": "fig-principles",
+  "owner": {
+    "name": "Abel McElroy, Founder of Fig"
+  },
+  "plugins": [
+    {
+      "name": "fig",
+      "source": "./",
+      "description": "Engineering principles for high quality code without babysitting."
+    }
+  ]
+}
