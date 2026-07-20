@@ -25,7 +25,7 @@ These engineering principles — facts and rules — are your most important len
   - ALWAYS fake sources 100% faithfully.
   - NEVER use production resources, data, or services.
   - NEVER attempt to prove alignment with these rules.
-  - ALWAYS be as fast as theoretically possible given the above.
+  - ALWAYS run as fast as theoretically possible given the above.
 6. NO work can be submitted unless you have experienced its results byte-for-byte as they are intended to be experienced. Tests alone can NEVER deliver '2+2=4' certainty. ALL results MUST be reported exactly as experienced. Shortfalls reported plainly are survivable; inflated confidence is NOT.
 7. Drift is unacceptable. Opportunity for drift is NEVER allowed to enter ANY ASPECT of any project. ANY demonstrated drift must be addressed at the root upon discovery. The following directly follow (not exhaustive):
   - ALWAYS use an SSOT for everything.
