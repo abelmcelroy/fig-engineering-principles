@@ -104,7 +104,7 @@ I use Claude Code (not codex, cursor, copilot, ...). Here's some stuff I'd highl
 
 1. **NEVER AUTOCOMPACT!** Don't even approach 100% context. Imagine all the tokens you'll spend in a session from 0% to 100%. At least as many tokens will likely be spent from 70% to 100% as will between 0% and 60%! You're sending the entire conversation on every request. ALSO, autocompaction dredges up long stale content from early on in a session back to the forefront of an agents awareness. Settled questions, reversed decisions, discussion points from completed work: it all comes back in no particular focus. Agent's are irreversibly incoherent after autocompaction.
 
-2. **Turn off automemory.** It's ass. It seems nice at first when agents magically know stuff want them to know, but the feature is additive and has no protocol for reaping/pruning stale information. Over time you'll find it wastes context and confuses agents more than it helps.
+2. **Turn off automemory.** It's ass. It seems nice at first when agents magically know stuff that you want them to know, but the feature is additive and has no protocol for reaping/pruning stale information. Over time you'll find it wastes context and confuses agents more than it helps.
 
 3. **Use `--dangerously-skip-permissions`.** It IS dangerous. But the biggest danger is YOU. If you're wearing the paint off your enter key, consider how your use of the tool left you with so little confidence in its behavior.
 
