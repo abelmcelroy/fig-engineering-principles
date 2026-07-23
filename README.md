@@ -1,6 +1,6 @@
 <h1 align="center">Fig: <a href="https://en.wikipedia.org/wiki/Fig#:~:text=According%20to%20the%20opinion%20of%20Rabbi,Christ%20withers%20in%20the%20Gospels">the fruit of knowledge</a></h1>
 
-<p align="center"><em>These are engineering principles for high quality code without babysitting.</em></p>
+<p align="center"><em>Engineering principles for high quality code without babysitting.</em></p>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/fig-engineering-principles"><img src="https://img.shields.io/npm/v/fig-engineering-principles" alt="npm version"></a>
