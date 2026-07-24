@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/fig-engineering-principles"><img src="https://img.shields.io/npm/v/fig-engineering-principles" alt="npm version"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-PolyForm%20Noncommercial%201.0.0-blue" alt="license"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-PolyForm%20Shield%201.0.0-blue" alt="license"></a>
 </p>
 
 <p align="center">
@@ -112,4 +112,8 @@ I use Claude Code (not codex, cursor, copilot, ...). Here's some stuff I'd highl
 
 ## License
 
-[PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0) — free to use, modify, and share for any noncommercial purpose; see [LICENSE](LICENSE). For commercial use, contact abel.h.mcelroy@gmail.com.
+[PolyForm Shield 1.0.0](https://polyformproject.org/licenses/shield/1.0.0) — see [LICENSE](LICENSE). In plain terms:
+
+- **Use the skills freely, for anything** — including commercial work. Individuals and companies can use them to build and ship commercial products with no strings attached.
+- **Anything you build with the skills is entirely yours.** Code produced by agents guided by these skills carries no obligations under this license.
+- **What you may not do** is offer the skills themselves (or derivatives of them) as a product — packaging, bundling, reselling, or hosting them as part of a competing tool or service, paid or free. For licensing beyond these terms, contact abel.h.mcelroy@gmail.com.
